@@ -4,11 +4,16 @@ body {
 
 h1 {
     color: white;
-    margin-left: 20px;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 25px;
 }
 p {
     color: blue;
 }
 h2 {
 	color: red;
+}
+img {
+    border-radius: 50%;
 }
